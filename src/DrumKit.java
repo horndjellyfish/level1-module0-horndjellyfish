@@ -43,7 +43,7 @@ public class DrumKit extends MouseAdapter {
    	 // 8. Put the name of your image in a String variable.
      String image = "drumkit.jpg";
    	 // 9. Edit the next line to use your String variable
-     drumLabelWithImage = createLabelImage(drumImageString);
+     //drumLabelWithImage = createLabelImage(drumImageString);
    	 
    	 // 10. Add the image to the panel
      
@@ -88,6 +88,3 @@ public class DrumKit extends MouseAdapter {
     }
 
 }
-
-
-
